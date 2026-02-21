@@ -1,1 +1,3 @@
-videojs.options.flash.swf = "video-js/video-js.swf";
+import cjsModule from './settings.cjs';
+
+export default cjsModule;
